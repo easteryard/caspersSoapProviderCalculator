@@ -22,7 +22,7 @@ namespace CalculatorTest
         [TestMethod]
         public void AddMethodTest()
         {
-            Assert.AreEqual(10, calculator.Add(5, 5));
+            Assert.AreEqual(101, calculator.Add(5, 5));
         }
     }
 }
